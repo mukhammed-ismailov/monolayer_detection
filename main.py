@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+
 from  configs import *
 from functions import *
 
@@ -21,6 +23,4 @@ for i in  os.listdir(path_to_images):
     #Отобразим контур на изображении
     img = show_coutor(countor, img_r)
     #Покажем изображение
-    show_img('countor bords',img)
-
-    #save_img(path_save, img, c, h)
+    #show_img('countor bords',img)
