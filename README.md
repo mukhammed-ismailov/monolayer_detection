@@ -13,3 +13,5 @@ Then the analysis of the drug maps is performed, followed by the detection of a 
 In the detected thin part, a sample of leukocytes can be collected.
 
 This technique is well suited when using automated microscopic platforms.
+
+[img.png](img.png)
